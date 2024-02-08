@@ -2,7 +2,7 @@ Nama : Muhammad Khotibul Umam
 
 NPM : 23066020020
 
-# resume-introduction-IOT
+# resume-introduction-IoT
 1. About ITCLab
 Here I will summarize the lesson on Introduction to Information Technology matriculation taught by Mr. Basuki https://github.com/bsrahmat.
 Our first meeting was presented with interesting material about the ITcLab kit, a tool to start learning about IoT or the internet of things, we learned about what iTcLab is, how IoT works with this tool, the programming used, developing and related to IoT, This ITcLab kit is inspired by BYU's (Brigham Young University) TCLab product. One of the private campuses in Provo, Utah, United States. There is a difference between the two, namely replacing the Arduino Uno microcontroller with an ESP32. By using the ESP32, iTCLab has the ability to connect to the Internet of Things (IoT).
